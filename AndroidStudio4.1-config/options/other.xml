@@ -66,12 +66,17 @@
     <property name="ask.about.ctrl.y.shortcut" value="true" />
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
-    <property name="file.gist.reindex.count" value="1" />
+    <property name="file.chooser.recent.files" value="/workspace" />
+    <property name="file.gist.reindex.count" value="2" />
     <property name="fileTypeChangedCounter" value="2" />
     <property name="installed.kotlin.plugin.version" value="1.4.32-release-Studio4.1-1" />
     <property name="kotlin-gradle-user-dirs" value="/workspace/.gradle" />
     <property name="kotlin.plugin.releaseDate" value="1.4.32-release-Studio4.1-1:2021-03-23" />
+    <property name="lastSeenTip" value="Kotlin_mix.html" />
+    <property name="lastTimeTipsWereShown" value="1617478813377" />
+    <property name="last_opened_file_path" value="/workspace" />
     <property name="new.jvm.backend.notification" value="true" />
+    <property name="seenTips" value="Kotlin_mix.html" />
     <property name="studio.activity.count" value="18" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
   </component>

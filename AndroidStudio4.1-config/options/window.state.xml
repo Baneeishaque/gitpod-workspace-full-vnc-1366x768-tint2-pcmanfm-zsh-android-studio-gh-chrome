@@ -7,7 +7,7 @@
     <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1324" height="179" />
   </component>
   <component name="WindowManager">
-    <frame x="0" y="0" width="1366" height="738" extendedState="6" />
+    <frame x="-1" y="-1" width="1368" height="744" extendedState="6" />
     <layout>
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
@@ -23,10 +23,14 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="279" y="0" width="802" height="707" key="#Plugins/0.0.1366.738" timestamp="1617477531395" />
-    <state x="907" y="541" width="400" height="200" key="ProcessPopupWindow" timestamp="1617477652907">
+    <state x="463" y="97" width="426" height="479" key="FileChooserDialogImpl" timestamp="1617478778543">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="907" y="541" width="400" height="200" key="ProcessPopupWindow/0.0.1366.738" timestamp="1617477652907" />
+    <state x="463" y="97" width="426" height="479" key="FileChooserDialogImpl/0.0.1366.738" timestamp="1617478778543" />
+    <state x="907" y="541" width="400" height="200" key="ProcessPopupWindow" timestamp="1617478886368">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="907" y="541" width="400" height="200" key="ProcessPopupWindow/0.0.1366.738" timestamp="1617478886368" />
     <state x="683" y="342" key="WELCOME_SCREEN" timestamp="1617477531399">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

@@ -1,8 +1,20 @@
 <application>
   <component name="ActionsLocalSummary">
     <data>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="1" last="1617478790575" />
+      </entry>
+      <entry key="EditorCopy">
+        <ActionSummary times="1" last="1617478783923" />
+      </entry>
+      <entry key="EditorPaste">
+        <ActionSummary times="1" last="1617478786305" />
+      </entry>
       <entry key="Exit">
-        <ActionSummary times="1" last="1617477952856" />
+        <ActionSummary times="2" last="1617479346713" />
+      </entry>
+      <entry key="NewProject">
+        <ActionSummary times="1" last="1617479327787" />
       </entry>
       <entry key="Run">
         <ActionSummary times="6" last="1617477937139" />
@@ -14,13 +26,13 @@
         <ActionSummary times="4" last="1617474625022" />
       </entry>
       <entry key="WelcomeScreen.CreateNewProject">
-        <ActionSummary times="2" last="1617477547167" />
+        <ActionSummary times="3" last="1617478751545" />
       </entry>
       <entry key="com.android.tools.idea.common.editor.DesignToolsSplitEditor$MyToolBarAction">
         <ActionSummary times="8" last="1617477927013" />
       </entry>
       <entry key="com.intellij.ide.ReopenProjectAction">
-        <ActionSummary times="1" last="1617477513563" />
+        <ActionSummary times="2" last="1617478744919" />
       </entry>
       <entry key="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
         <ActionSummary times="1" last="1617477829491" />
@@ -29,7 +41,7 @@
         <ActionSummary times="1" last="1617477817222" />
       </entry>
       <entry key="com.intellij.openapi.externalSystem.action.task.ExternalSystemTaskMenu$DelegatingActionGroup">
-        <ActionSummary times="1" last="1617477680045" />
+        <ActionSummary times="2" last="1617479098176" />
       </entry>
       <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
         <ActionSummary times="2" last="1617477741116" />
