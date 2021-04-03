@@ -1,26 +1,5 @@
 <application>
   <component name="RecentProjectsManager">
-    <option name="additionalInfo">
-      <map>
-        <entry key="/workspace/MyApplication">
-          <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1qfm15qPQwFaCvvPQhXjd9F0Lgc">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-201.8743.12.41.7042882" />
-              <option name="buildTimestamp" value="1608424791088" />
-              <frame x="-1" y="-1" width="1368" height="744" extendedState="6" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1617478801795" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-      </map>
-    </option>
     <option name="lastProjectLocation" value="/workspace" />
-    <option name="recentPaths">
-      <list>
-        <option value="/workspace/MyApplication" />
-      </list>
-    </option>
   </component>
 </application>

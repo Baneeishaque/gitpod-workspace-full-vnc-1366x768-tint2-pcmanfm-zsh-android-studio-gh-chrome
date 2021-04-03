@@ -8,7 +8,7 @@
         <ActionSummary times="1" last="1617478783923" />
       </entry>
       <entry key="EditorPaste">
-        <ActionSummary times="1" last="1617478786305" />
+        <ActionSummary times="2" last="1617480087459" />
       </entry>
       <entry key="Exit">
         <ActionSummary times="2" last="1617479346713" />
@@ -25,14 +25,17 @@
       <entry key="Table-selectPreviousRow">
         <ActionSummary times="4" last="1617474625022" />
       </entry>
+      <entry key="Vcs.VcsClone">
+        <ActionSummary times="1" last="1617480041736" />
+      </entry>
       <entry key="WelcomeScreen.CreateNewProject">
-        <ActionSummary times="3" last="1617478751545" />
+        <ActionSummary times="4" last="1617480009794" />
       </entry>
       <entry key="com.android.tools.idea.common.editor.DesignToolsSplitEditor$MyToolBarAction">
         <ActionSummary times="8" last="1617477927013" />
       </entry>
       <entry key="com.intellij.ide.ReopenProjectAction">
-        <ActionSummary times="2" last="1617478744919" />
+        <ActionSummary times="3" last="1617480005150" />
       </entry>
       <entry key="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
         <ActionSummary times="1" last="1617477829491" />
