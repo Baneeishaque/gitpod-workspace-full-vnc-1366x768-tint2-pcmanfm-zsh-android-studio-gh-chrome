@@ -8,7 +8,7 @@ tasks:
 #  - init: ln -s /workspace/Android-Studio-Gitpod/AndroidStudio4.1-Plugins ~/.local/share/Google/AndroidStudio4.1
   - command: cd /usr/local/android-studio/bin/ && ./studio.sh
 #  - init: gh auth login
-  - command: google-chrome
+  - command: google-chrome --disable-dev-shm-usage
     
 # Ports to expose on workspace startup
 ports:
