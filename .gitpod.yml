@@ -4,7 +4,7 @@ image:
 # Command to start on workspace startup
 tasks:
   - command: zsh
-  - command: ln -s `pwd`/AndroidStudio4.1-config ~/.config/Google/AndroidStudio4.1 && ln -s `pwd`/AndroidStudio4.1-local ~/.local/share/Google/AndroidStudio4.1 && cd /usr/local/android-studio/bin/ && ./studio.sh
+  - command: mkdir -p ~/.config/Google && ln -s `pwd`/AndroidStudio4.1-config ~/.config/Google/AndroidStudio4.1 && mkdir -p ~/.local/share/Google && ln -s `pwd`/AndroidStudio4.1-local ~/.local/share/Google/AndroidStudio4.1 && cd /usr/local/android-studio/bin/ && ./studio.sh
 #  - init: gh auth login
   - command: google-chrome --disable-dev-shm-usage
     
