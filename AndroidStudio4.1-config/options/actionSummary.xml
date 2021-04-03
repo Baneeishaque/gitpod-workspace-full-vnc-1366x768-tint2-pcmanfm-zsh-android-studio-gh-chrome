@@ -1,0 +1,18 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="Run">
+        <ActionSummary times="2" last="1617476152633" />
+      </entry>
+      <entry key="Table-selectNextRow">
+        <ActionSummary times="1" last="1617474614634" />
+      </entry>
+      <entry key="Table-selectPreviousRow">
+        <ActionSummary times="4" last="1617474625022" />
+      </entry>
+      <entry key="WelcomeScreen.CreateNewProject">
+        <ActionSummary times="1" last="1617475769720" />
+      </entry>
+    </data>
+  </component>
+</application>
