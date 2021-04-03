@@ -1,9 +1,13 @@
 <application>
   <component name="DimensionService">
     <location key="WELCOME_SCREEN.0.0.1366.768" x="683" y="300" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1324" height="179" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1324" height="179" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1324" height="179" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1324" height="179" />
   </component>
   <component name="WindowManager">
-    <frame x="10" y="20" width="1346" height="698" extendedState="6" />
+    <frame x="0" y="0" width="1366" height="738" extendedState="6" />
     <layout>
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
@@ -15,9 +19,17 @@
     </layout>
   </component>
   <component name="WindowStateApplicationService">
-    <state x="684" y="334" key="WELCOME_SCREEN" timestamp="1617474694544">
+    <state x="279" y="0" width="802" height="707" key="#Plugins" timestamp="1617477531395">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="684" y="334" key="WELCOME_SCREEN/0.0.1366.738" timestamp="1617474694544" />
+    <state x="279" y="0" width="802" height="707" key="#Plugins/0.0.1366.738" timestamp="1617477531395" />
+    <state x="907" y="541" width="400" height="200" key="ProcessPopupWindow" timestamp="1617477652907">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="907" y="541" width="400" height="200" key="ProcessPopupWindow/0.0.1366.738" timestamp="1617477652907" />
+    <state x="683" y="342" key="WELCOME_SCREEN" timestamp="1617477531399">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="683" y="342" key="WELCOME_SCREEN/0.0.1366.738" timestamp="1617477531399" />
   </component>
 </application>

@@ -4,12 +4,13 @@
       <map>
         <entry key="$USER_HOME$/AndroidStudioProjects/MyApplication">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1qffuEz7VHQyKbQLLKoqcCIZHb4">
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1qfjUluAYai144nD2ZXg85xbsoW">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-201.8743.12.41.7042882" />
-              <option name="buildTimestamp" value="1608424750461" />
+              <option name="build" value="AI-201.8743.12.41.7199119" />
+              <option name="buildTimestamp" value="1615417374125" />
+              <frame x="0" y="0" width="1366" height="738" extendedState="6" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1617475786022" />
+              <option name="projectOpenTimestamp" value="1617477557578" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
