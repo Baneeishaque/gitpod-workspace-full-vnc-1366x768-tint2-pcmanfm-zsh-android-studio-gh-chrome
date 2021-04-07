@@ -1,8 +1,14 @@
 <application>
   <component name="ActionsLocalSummary">
     <data>
+      <entry key="Android Profiler">
+        <ActionSummary times="2" last="1617828752167" />
+      </entry>
       <entry key="CloseAllEditors">
         <ActionSummary times="1" last="1617826328420" />
+      </entry>
+      <entry key="CloseProject">
+        <ActionSummary times="1" last="1617828483179" />
       </entry>
       <entry key="EditorBackSpace">
         <ActionSummary times="5" last="1617825273311" />
@@ -20,7 +26,7 @@
         <ActionSummary times="4" last="1617825346908" />
       </entry>
       <entry key="Exit">
-        <ActionSummary times="2" last="1617479346713" />
+        <ActionSummary times="3" last="1617829945979" />
       </entry>
       <entry key="GoogleLogin.LoginService">
         <ActionSummary times="2" last="1617825631367" />
@@ -28,17 +34,20 @@
       <entry key="GotoDeclaration">
         <ActionSummary times="21" last="1617826320718" />
       </entry>
+      <entry key="HideAllWindows">
+        <ActionSummary times="4" last="1617828790878" />
+      </entry>
       <entry key="InvalidateCaches">
-        <ActionSummary times="1" last="1617825121038" />
+        <ActionSummary times="2" last="1617828493267" />
       </entry>
       <entry key="MarkExcludeRoot">
         <ActionSummary times="2" last="1617825442370" />
       </entry>
       <entry key="NewProject">
-        <ActionSummary times="1" last="1617479327787" />
+        <ActionSummary times="2" last="1617828372046" />
       </entry>
       <entry key="Run">
-        <ActionSummary times="6" last="1617477937139" />
+        <ActionSummary times="12" last="1617828552617" />
       </entry>
       <entry key="ShowIntentionActions">
         <ActionSummary times="5" last="1617826136562" />
@@ -47,7 +56,7 @@
         <ActionSummary times="1" last="1617824933795" />
       </entry>
       <entry key="ShowSettings">
-        <ActionSummary times="2" last="1617825044389" />
+        <ActionSummary times="6" last="1617828562813" />
       </entry>
       <entry key="TabList">
         <ActionSummary times="2" last="1617826264783" />
@@ -75,6 +84,9 @@
       </entry>
       <entry key="com.android.tools.idea.common.editor.DesignToolsSplitEditor$MyToolBarAction">
         <ActionSummary times="28" last="1617826323568" />
+      </entry>
+      <entry key="com.codertainment.scrcpy.controller.util.ScrcpyNotificationAction">
+        <ActionSummary times="1" last="1617828854027" />
       </entry>
       <entry key="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SaveTemporaryAction">
         <ActionSummary times="1" last="1617825599433" />
@@ -104,7 +116,7 @@
         <ActionSummary times="2" last="1617825057013" />
       </entry>
       <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
-        <ActionSummary times="6" last="1617825708409" />
+        <ActionSummary times="10" last="1617828795554" />
       </entry>
       <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
         <ActionSummary times="2" last="1617825167996" />
