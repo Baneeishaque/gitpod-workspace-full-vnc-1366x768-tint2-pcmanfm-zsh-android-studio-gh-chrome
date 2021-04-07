@@ -1,5 +1,25 @@
 <application>
   <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="/workspace/Online-Voting-System-Android">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1qr3bUXudgNV3DU34881Uw8slUl">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-201.8743.12.41.7199119" />
+              <option name="buildTimestamp" value="1615417356526" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1617826905051" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="lastProjectLocation" value="/workspace" />
+    <option name="recentPaths">
+      <list>
+        <option value="/workspace/Online-Voting-System-Android" />
+      </list>
+    </option>
   </component>
 </application>

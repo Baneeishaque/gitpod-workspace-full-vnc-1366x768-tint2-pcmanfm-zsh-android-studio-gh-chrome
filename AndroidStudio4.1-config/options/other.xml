@@ -52,6 +52,8 @@
     <property name="AndroidInitConfigurator.V1" value="true" />
     <property name="AndroidInitConfigurator.V3" value="true" />
     <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
     <property name="InstalledPluginsSearchHistory" value="/outdated" />
     <property name="NonModalCommitCustomization.IsApplied" value="true" />
     <property name="PluginConfigurable.selectionTab" value="1" />
@@ -62,21 +64,30 @@
     <property name="SPLIT_EDITOR_MODE_/home/gitpod/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_dashboard.xml" value="DEACTIVATED" />
     <property name="SPLIT_EDITOR_MODE_/home/gitpod/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_home.xml" value="DEACTIVATED" />
     <property name="SPLIT_EDITOR_MODE_/home/gitpod/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_notifications.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_/workspace/Online-Voting-System-Android/app/src/main/res/layout/activity_admin.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_/workspace/Online-Voting-System-Android/app/src/main/res/layout/activity_c_candidate.xml" value="FULL" />
+    <property name="SPLIT_EDITOR_MODE_/workspace/Online-Voting-System-Android/app/src/main/res/layout/activity_cresults.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_/workspace/Online-Voting-System-Android/app/src/main/res/layout/activity_cvoter.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_/workspace/Online-Voting-System-Android/app/src/main/res/layout/activity_main.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_/workspace/Online-Voting-System-Android/app/src/main/res/layout/activity_result.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_/workspace/Online-Voting-System-Android/app/src/main/res/layout/activity_splash.xml" value="FULL" />
+    <property name="SettingsSearchHistory" value="project" />
     <property name="UITheme.relaunch" value="true" />
     <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
-    <property name="file.chooser.recent.files" value="/workspace" />
-    <property name="file.gist.reindex.count" value="2" />
-    <property name="fileTypeChangedCounter" value="2" />
+    <property name="file.chooser.recent.files" value="/workspace/Online-Voting-System-Android&#10;/workspace" />
+    <property name="file.gist.reindex.count" value="19" />
+    <property name="fileTypeChangedCounter" value="3" />
     <property name="installed.kotlin.plugin.version" value="1.4.32-release-Studio4.1-1" />
     <property name="kotlin-gradle-user-dirs" value="/workspace/.gradle" />
     <property name="kotlin.plugin.releaseDate" value="1.4.32-release-Studio4.1-1:2021-03-23" />
-    <property name="lastSeenTip" value="Kotlin_mix.html" />
-    <property name="lastTimeTipsWereShown" value="1617478813377" />
-    <property name="last_opened_file_path" value="/workspace" />
+    <property name="lastSeenTip" value="InjectSQLLanguage.html" />
+    <property name="lastTimeTipsWereShown" value="1617823959775" />
+    <property name="last_opened_file_path" value="/workspace/Online-Voting-System-Android" />
     <property name="new.jvm.backend.notification" value="true" />
-    <property name="seenTips" value="Kotlin_mix.html" />
+    <property name="seenTips" value="Kotlin_mix.html,InjectSQLLanguage.html" />
     <property name="studio.activity.count" value="18" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
   </component>
