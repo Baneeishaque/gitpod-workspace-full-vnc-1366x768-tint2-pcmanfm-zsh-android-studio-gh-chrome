@@ -1,6 +1,12 @@
 <application>
   <component name="ActionsLocalSummary">
     <data>
+      <entry key="$SelectAll">
+        <ActionSummary times="1" last="1617831478100" />
+      </entry>
+      <entry key="$Undo">
+        <ActionSummary times="19" last="1617833058029" />
+      </entry>
       <entry key="Android Profiler">
         <ActionSummary times="2" last="1617828752167" />
       </entry>
@@ -10,20 +16,59 @@
       <entry key="CloseProject">
         <ActionSummary times="1" last="1617828483179" />
       </entry>
+      <entry key="CodeCompletion">
+        <ActionSummary times="7" last="1617832519974" />
+      </entry>
+      <entry key="CommentByLineComment">
+        <ActionSummary times="1" last="1617831865785" />
+      </entry>
       <entry key="EditorBackSpace">
-        <ActionSummary times="5" last="1617825273311" />
+        <ActionSummary times="142" last="1617833030354" />
+      </entry>
+      <entry key="EditorChooseLookupItem">
+        <ActionSummary times="20" last="1617832642493" />
       </entry>
       <entry key="EditorCopy">
-        <ActionSummary times="1" last="1617478783923" />
+        <ActionSummary times="3" last="1617832998221" />
+      </entry>
+      <entry key="EditorCut">
+        <ActionSummary times="13" last="1617832597295" />
       </entry>
       <entry key="EditorDown">
-        <ActionSummary times="6" last="1617826135071" />
+        <ActionSummary times="199" last="1617832683537" />
+      </entry>
+      <entry key="EditorDownWithSelection">
+        <ActionSummary times="16" last="1617831605172" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="11" last="1617833025609" />
+      </entry>
+      <entry key="EditorEscape">
+        <ActionSummary times="1" last="1617832444678" />
       </entry>
       <entry key="EditorLeft">
-        <ActionSummary times="3" last="1617826135738" />
+        <ActionSummary times="59" last="1617833028569" />
+      </entry>
+      <entry key="EditorLeftWithSelection">
+        <ActionSummary times="38" last="1617832658392" />
       </entry>
       <entry key="EditorPaste">
-        <ActionSummary times="4" last="1617825346908" />
+        <ActionSummary times="8" last="1617833026584" />
+      </entry>
+      <entry key="EditorRight">
+        <ActionSummary times="159" last="1617833017112" />
+      </entry>
+      <entry key="EditorRightWithSelection">
+        <ActionSummary times="23" last="1617832646110" />
+      </entry>
+      <entry key="EditorSplitLine">
+        <ActionSummary times="1" last="1617832668956" />
+      </entry>
+      <entry key="EditorUp">
+        <ActionSummary times="195" last="1617832693955" />
+      </entry>
+      <entry key="EditorUpWithSelection">
+        <ActionSummary times="9" last="1617831552287" />
       </entry>
       <entry key="Exit">
         <ActionSummary times="3" last="1617829945979" />
@@ -32,7 +77,7 @@
         <ActionSummary times="2" last="1617825631367" />
       </entry>
       <entry key="GotoDeclaration">
-        <ActionSummary times="21" last="1617826320718" />
+        <ActionSummary times="23" last="1617831515651" />
       </entry>
       <entry key="HideAllWindows">
         <ActionSummary times="4" last="1617828790878" />
@@ -46,11 +91,23 @@
       <entry key="NewProject">
         <ActionSummary times="2" last="1617828372046" />
       </entry>
+      <entry key="ReformatCode">
+        <ActionSummary times="3" last="1617832366842" />
+      </entry>
+      <entry key="RenameElement">
+        <ActionSummary times="1" last="1617832201314" />
+      </entry>
+      <entry key="Replace">
+        <ActionSummary times="1" last="1617832165196" />
+      </entry>
       <entry key="Run">
-        <ActionSummary times="12" last="1617828552617" />
+        <ActionSummary times="14" last="1617830901724" />
       </entry>
       <entry key="ShowIntentionActions">
-        <ActionSummary times="5" last="1617826136562" />
+        <ActionSummary times="11" last="1617832931010" />
+      </entry>
+      <entry key="ShowPopupMenu">
+        <ActionSummary times="1" last="1617833018029" />
       </entry>
       <entry key="ShowProjectStructureSettings">
         <ActionSummary times="1" last="1617824933795" />
@@ -68,10 +125,10 @@
         <ActionSummary times="4" last="1617474625022" />
       </entry>
       <entry key="Tree-selectChild">
-        <ActionSummary times="2" last="1617825691166" />
+        <ActionSummary times="5" last="1617831433588" />
       </entry>
       <entry key="Tree-selectNext">
-        <ActionSummary times="16" last="1617825697750" />
+        <ActionSummary times="19" last="1617831432131" />
       </entry>
       <entry key="Vcs.VcsClone">
         <ActionSummary times="1" last="1617480041736" />
@@ -82,8 +139,14 @@
       <entry key="WelcomeScreen.OpenProject">
         <ActionSummary times="1" last="1617823943643" />
       </entry>
+      <entry key="com.android.tools.adtui.workbench.AttachedToolWindow$HideAction">
+        <ActionSummary times="2" last="1617832889319" />
+      </entry>
+      <entry key="com.android.tools.adtui.workbench.AttachedToolWindow$SearchAction">
+        <ActionSummary times="2" last="1617832770235" />
+      </entry>
       <entry key="com.android.tools.idea.common.editor.DesignToolsSplitEditor$MyToolBarAction">
-        <ActionSummary times="28" last="1617826323568" />
+        <ActionSummary times="34" last="1617831581413" />
       </entry>
       <entry key="com.codertainment.scrcpy.controller.util.ScrcpyNotificationAction">
         <ActionSummary times="1" last="1617828854027" />
@@ -93,6 +156,9 @@
       </entry>
       <entry key="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
         <ActionSummary times="1" last="1617826333209" />
+      </entry>
+      <entry key="com.intellij.find.editorHeaderActions.ToggleSelectionOnlyAction">
+        <ActionSummary times="1" last="1617832166541" />
       </entry>
       <entry key="com.intellij.ide.ReopenProjectAction">
         <ActionSummary times="3" last="1617480005150" />
@@ -116,7 +182,7 @@
         <ActionSummary times="2" last="1617825057013" />
       </entry>
       <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
-        <ActionSummary times="10" last="1617828795554" />
+        <ActionSummary times="12" last="1617831584497" />
       </entry>
       <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
         <ActionSummary times="2" last="1617825167996" />
@@ -124,8 +190,14 @@
       <entry key="com.intellij.ui.CommonActionsPanel$AddButton">
         <ActionSummary times="2" last="1617825051688" />
       </entry>
+      <entry key="context.load">
+        <ActionSummary times="1" last="1617832070907" />
+      </entry>
       <entry key="editRunConfigurations">
         <ActionSummary times="1" last="1617825603690" />
+      </entry>
+      <entry key="template.create.ActivityEmpty Activity">
+        <ActionSummary times="1" last="1617831494322" />
       </entry>
     </data>
   </component>
