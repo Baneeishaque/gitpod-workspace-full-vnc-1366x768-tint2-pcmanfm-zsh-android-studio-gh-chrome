@@ -11,10 +11,10 @@
         <ActionSummary times="2" last="1617828752167" />
       </entry>
       <entry key="ChangesView.GroupBy">
-        <ActionSummary times="2" last="1617838628860" />
+        <ActionSummary times="3" last="1617858032206" />
       </entry>
       <entry key="ChangesView.GroupBy.Repository">
-        <ActionSummary times="1" last="1617838630608" />
+        <ActionSummary times="2" last="1617858035157" />
       </entry>
       <entry key="ChangesView.Refresh">
         <ActionSummary times="6" last="1617838851340" />
@@ -32,13 +32,13 @@
         <ActionSummary times="1" last="1617831865785" />
       </entry>
       <entry key="EditorBackSpace">
-        <ActionSummary times="224" last="1617840610206" />
+        <ActionSummary times="225" last="1617857640663" />
       </entry>
       <entry key="EditorChooseLookupItem">
         <ActionSummary times="70" last="1617840394493" />
       </entry>
       <entry key="EditorCopy">
-        <ActionSummary times="7" last="1617840287321" />
+        <ActionSummary times="8" last="1617857757986" />
       </entry>
       <entry key="EditorCut">
         <ActionSummary times="18" last="1617840267654" />
@@ -80,7 +80,7 @@
         <ActionSummary times="10" last="1617840266149" />
       </entry>
       <entry key="Exit">
-        <ActionSummary times="3" last="1617829945979" />
+        <ActionSummary times="4" last="1617859399520" />
       </entry>
       <entry key="GoogleLogin.LoginService">
         <ActionSummary times="2" last="1617825631367" />
@@ -96,6 +96,12 @@
       </entry>
       <entry key="MarkExcludeRoot">
         <ActionSummary times="2" last="1617825442370" />
+      </entry>
+      <entry key="MarkdownNavigator.EditorAndPreviewLayoutChange">
+        <ActionSummary times="2" last="1617857564783" />
+      </entry>
+      <entry key="MarkdownNavigator.ShowFileProfileSettings">
+        <ActionSummary times="2" last="1617857520211" />
       </entry>
       <entry key="NewProject">
         <ActionSummary times="2" last="1617828372046" />
@@ -128,7 +134,7 @@
         <ActionSummary times="1" last="1617824933795" />
       </entry>
       <entry key="ShowSettings">
-        <ActionSummary times="7" last="1617838798697" />
+        <ActionSummary times="8" last="1617857601957" />
       </entry>
       <entry key="TabList">
         <ActionSummary times="4" last="1617839850436" />
@@ -140,10 +146,13 @@
         <ActionSummary times="4" last="1617474625022" />
       </entry>
       <entry key="Tree-selectChild">
-        <ActionSummary times="5" last="1617831433588" />
+        <ActionSummary times="7" last="1617858018875" />
       </entry>
       <entry key="Tree-selectNext">
         <ActionSummary times="19" last="1617831432131" />
+      </entry>
+      <entry key="Tree-selectParent">
+        <ActionSummary times="1" last="1617857964044" />
       </entry>
       <entry key="Vcs.Push">
         <ActionSummary times="1" last="1617838883597" />
@@ -170,7 +179,25 @@
         <ActionSummary times="46" last="1617839497250" />
       </entry>
       <entry key="com.codertainment.scrcpy.controller.util.ScrcpyNotificationAction">
-        <ActionSummary times="1" last="1617828854027" />
+        <ActionSummary times="2" last="1617859382641" />
+      </entry>
+      <entry key="com.intellij.diff.actions.impl.SetEditorSettingsAction">
+        <ActionSummary times="3" last="1617858107835" />
+      </entry>
+      <entry key="com.intellij.diff.actions.impl.SetEditorSettingsAction$3">
+        <ActionSummary times="1" last="1617858099730" />
+      </entry>
+      <entry key="com.intellij.diff.actions.impl.SetEditorSettingsAction$4">
+        <ActionSummary times="1" last="1617858104092" />
+      </entry>
+      <entry key="com.intellij.diff.impl.DiffRequestProcessor$DiffToolToggleAction">
+        <ActionSummary times="1" last="1617858070611" />
+      </entry>
+      <entry key="com.intellij.diff.tools.fragmented.UnifiedDiffViewer$MyToggleExpandByDefaultAction">
+        <ActionSummary times="2" last="1617858088558" />
+      </entry>
+      <entry key="com.intellij.diff.tools.util.base.TextDiffViewerUtil$ComboBoxSettingAction$MyAction">
+        <ActionSummary times="1" last="1617858074518" />
       </entry>
       <entry key="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SaveTemporaryAction">
         <ActionSummary times="1" last="1617825599433" />
@@ -184,6 +211,9 @@
       <entry key="com.intellij.ide.ReopenProjectAction">
         <ActionSummary times="3" last="1617480005150" />
       </entry>
+      <entry key="com.intellij.ide.actions.ExpandAllToolbarAction">
+        <ActionSummary times="2" last="1617858043875" />
+      </entry>
       <entry key="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
         <ActionSummary times="1" last="1617477829491" />
       </entry>
@@ -194,7 +224,7 @@
         <ActionSummary times="2" last="1617825356069" />
       </entry>
       <entry key="com.intellij.openapi.actionSystem.DefaultActionGroup">
-        <ActionSummary times="1" last="1617838626749" />
+        <ActionSummary times="2" last="1617858037146" />
       </entry>
       <entry key="com.intellij.openapi.externalSystem.action.task.ExternalSystemTaskMenu$DelegatingActionGroup">
         <ActionSummary times="3" last="1617825552142" />
@@ -206,7 +236,7 @@
         <ActionSummary times="2" last="1617825057013" />
       </entry>
       <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
-        <ActionSummary times="20" last="1617840550752" />
+        <ActionSummary times="22" last="1617858083090" />
       </entry>
       <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
         <ActionSummary times="2" last="1617825167996" />

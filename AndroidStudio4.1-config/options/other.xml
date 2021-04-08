@@ -99,7 +99,7 @@
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="file.chooser.recent.files" value="/workspace/Online-Voting-System-Android&#10;/workspace" />
-    <property name="file.gist.reindex.count" value="36" />
+    <property name="file.gist.reindex.count" value="56" />
     <property name="fileTypeChangedCounter" value="3" />
     <property name="inspector.open.All Attributes" value="true" />
     <property name="inspector.open.textAppearance" value="true" />
