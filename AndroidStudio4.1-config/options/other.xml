@@ -91,6 +91,7 @@
     <property name="SPLIT_EDITOR_MODE_/workspace/Online-Voting-System-Android/app/src/main/res/layout/activity_result.xml" value="DEACTIVATED" />
     <property name="SPLIT_EDITOR_MODE_/workspace/Online-Voting-System-Android/app/src/main/res/layout/activity_splash.xml" value="FULL" />
     <property name="SPLIT_EDITOR_MODE_/workspace/Online-Voting-System-Android/app/src/main/res/layout/activity_voter.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/workspace/Online-Voting-System-Android/app/src/main/res/layout/activity_voter_otp.xml" value="SPLIT" />
     <property name="SettingsSearchHistory" value="project" />
     <property name="UITheme.relaunch" value="true" />
     <property name="ask.about.ctrl.y.shortcut" value="true" />
@@ -98,7 +99,7 @@
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="file.chooser.recent.files" value="/workspace/Online-Voting-System-Android&#10;/workspace" />
-    <property name="file.gist.reindex.count" value="19" />
+    <property name="file.gist.reindex.count" value="36" />
     <property name="fileTypeChangedCounter" value="3" />
     <property name="inspector.open.All Attributes" value="true" />
     <property name="inspector.open.textAppearance" value="true" />
