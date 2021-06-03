@@ -7,4 +7,3 @@ RUN cd $HOME \
      ./google-chrome-stable_current_amd64.deb \
  && sudo rm -rf /var/lib/apt/lists/* \
  && rm google-chrome-stable_current_amd64.deb
-
