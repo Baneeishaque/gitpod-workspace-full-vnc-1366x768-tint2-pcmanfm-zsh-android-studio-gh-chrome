@@ -14,13 +14,16 @@
 ### &nbsp;&nbsp; - PCMan File Manager : 1.3.1-1
 ### &nbsp;&nbsp; - Github CLI : 1.10.3
 ### &nbsp;&nbsp; - Google Chrome : 91.0.4472.77
+
 ### &nbsp;&nbsp; - ZSH : 5.8
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Oh My ZSH : 7ab15be
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Git
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Gradle
+
 ### &nbsp;&nbsp; - Android Studio
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Android SDK : 30
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Stable : 4.2
+
 ## Misc. Tools
 ### &nbsp;&nbsp; - Tint 2 : 16.7
 
