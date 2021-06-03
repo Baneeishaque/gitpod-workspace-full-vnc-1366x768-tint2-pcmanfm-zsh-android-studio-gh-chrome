@@ -16,4 +16,3 @@ ports:
     onOpen: open-preview
   - port: 6942
     onOpen: ignore
-    
