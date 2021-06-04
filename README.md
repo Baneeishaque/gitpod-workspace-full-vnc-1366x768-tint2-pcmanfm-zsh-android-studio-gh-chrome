@@ -12,19 +12,20 @@
 
 ## Tools
 ### &nbsp;&nbsp; - PCMan File Manager : 1.3.1-1
-### &nbsp;&nbsp; - Github CLI : 1.10.3
-### &nbsp;&nbsp; - Google Chrome : 91.0.4472.77
 
-### &nbsp;&nbsp; - ZSH : 5.8
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Oh My ZSH : 7ab15be
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Git
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Gradle
+### &nbsp;&nbsp; - ZSH : 5.8-3
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Oh My ZSH : 706b2f3
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Git
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Gradle
 
 ### &nbsp;&nbsp; - Android Studio
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Android SDK : 30
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Stable : 4.2
 
+### &nbsp;&nbsp; - GitHub CLI : 1.11.0
+### &nbsp;&nbsp; - Google Chrome : 91.0.4472.77
+
 ## Misc. Tools
-### &nbsp;&nbsp; - Tint 2 : 16.7
+### &nbsp;&nbsp; - Tint 2 : 16.7-1
 
 [//]: # "[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Baneeishaque/gitpod-workspace-full-vnc-1366x768-tint2-pcmanfm-zsh-android-studio-gh-chrome)"
